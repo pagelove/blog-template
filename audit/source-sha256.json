@@ -1,0 +1,179 @@
+{
+  "utc": "2026-11-05T04:12:03.370Z",
+  "actor": "Codex",
+  "repo": "pagelove/blog-template",
+  "scope": "Candidate source closure; audit files excluded to avoid recursive receipts",
+  "status": "Implementation candidate; live gates listed in REVIEW.md",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 19,
+      "sha256": "d60f352d0db1404c70afb4bb8b2ca3fd1c610572aa40720e8a0b7baa7885418c"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 42,
+      "sha256": "e3f22027c31cf9c8bc9e6945020db55876c86baf60d9cad2164beec5b381deb1"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 552,
+      "sha256": "febde961c8698bc958c59ed60da069eb1cf18cb9a6f85018a3ecb31ca074111a"
+    },
+    {
+      "path": "ASSETS.md",
+      "bytes": 342,
+      "sha256": "4ba1a10c29eb2da6da5094c43ff08c11bc892f5da6516c510901195683226dfa"
+    },
+    {
+      "path": "DESIGN.md",
+      "bytes": 659,
+      "sha256": "77353a273f7871c8dc9092eac832ffe92afd797c31848198fce33c99d20dac83"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1203,
+      "sha256": "25768f0f5a730893110ab62e341ecb3f1b7171251a8695027c28bcb8c6223ff1"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2325,
+      "sha256": "caf64531c1db7f0b8eb3ce9bc5635443172cb27d7c9842eb10437327ee9d3429"
+    },
+    {
+      "path": "REVIEW.md",
+      "bytes": 1767,
+      "sha256": "e70f78c31dd6b283106deae370884ba74c068f78d0c9587f953b0b32cda803fc"
+    },
+    {
+      "path": "bun.lock",
+      "bytes": 3175,
+      "sha256": "c038cd9a6dde39fe0aac7a464a5cec373f9f71946d3abdeaa4c5af7f23b35db7"
+    },
+    {
+      "path": "docs/architecture.md",
+      "bytes": 3403,
+      "sha256": "e85eea68c67e5fb27d075b592ceba379dadf3955dc02df1c03fd0f6641caa7a6"
+    },
+    {
+      "path": "docs/deployment.md",
+      "bytes": 1462,
+      "sha256": "5ca1503d506d8b5242a7be988399f44bbfd09d9176c350412910a0df35809743"
+    },
+    {
+      "path": "docs/design-source.json",
+      "bytes": 1006,
+      "sha256": "d05a6f55e7650cca82bda1ed3f60d3549523966db0d16b76c3ce0fa027ff4daf"
+    },
+    {
+      "path": "docs/personalization.md",
+      "bytes": 566,
+      "sha256": "b58970b95a4cca7d8ec858997c9f55d8110f77c43a98c81af665c4e4ee5dae70"
+    },
+    {
+      "path": "package.json",
+      "bytes": 358,
+      "sha256": "896d3060923d5767ec11089e2b140f1ce2b6b07312b76b804084e4ce179f7521"
+    },
+    {
+      "path": "pagelove.html",
+      "bytes": 325,
+      "sha256": "4b7696125221074482cb4e7a7c30b899960decfd8dcf16e72f5af45f8013ce8f"
+    },
+    {
+      "path": "scripts/check.mjs",
+      "bytes": 1816,
+      "sha256": "1d40406884777bb2ac82f02d376a02436c92bd5b5ac8e331d7cd0fd56d3a8a6c"
+    },
+    {
+      "path": "scripts/preview.mjs",
+      "bytes": 2851,
+      "sha256": "0f4a12bab04a467ddb289a35958f9e1a79f77f596f5aa93c01161579de86441c"
+    },
+    {
+      "path": "site/app.mjs",
+      "bytes": 11300,
+      "sha256": "1bdb7937919cd5c9cdb5b149ecdb2adfea5dac12c78e6d2b4793832c184c93c7"
+    },
+    {
+      "path": "site/assets/pagelove-design/LICENSE",
+      "bytes": 1203,
+      "sha256": "25768f0f5a730893110ab62e341ecb3f1b7171251a8695027c28bcb8c6223ff1"
+    },
+    {
+      "path": "site/assets/pagelove-design/app.css",
+      "bytes": 3403,
+      "sha256": "989013780ce09e560902b9bbb0035730d77901a871159d340a5b83f7fca9bee7"
+    },
+    {
+      "path": "site/assets/pagelove-design/foundations.css",
+      "bytes": 8000,
+      "sha256": "68ada0487fbfe85f40a136e48b8bfb9424c7bd6eb3230438268bbcabf95fa86f"
+    },
+    {
+      "path": "site/assets/pagelove-design/library-components.css",
+      "bytes": 42710,
+      "sha256": "7acd3bc452b690e288145c8eb885379237e2401f04542a8b3e7f76cee46f133b"
+    },
+    {
+      "path": "site/assets/pagelove-design/profiles.css",
+      "bytes": 1527,
+      "sha256": "e33fc8cffe8b30dbf458f43746febbc3978cbfdac8e425d8896e3bc199596ea0"
+    },
+    {
+      "path": "site/assets/pagelove-design/semantic.css",
+      "bytes": 12277,
+      "sha256": "ef39a8bb9c014d7fb09744d2b591a3c42cded295917acc17458df9e13167c2cd"
+    },
+    {
+      "path": "site/assets/pagelove-design/typography.css",
+      "bytes": 5852,
+      "sha256": "28869ab24e5f32b7c1b782679d5ba2f46c20a8eb7248fb99c10fb7a449e749bf"
+    },
+    {
+      "path": "site/config.mjs",
+      "bytes": 1688,
+      "sha256": "011c2e44f8e8dd180ac85c42440dbeee71297d5fb0ed26a1d2c6360cbe446a03"
+    },
+    {
+      "path": "site/domain.mjs",
+      "bytes": 9222,
+      "sha256": "6806e0a3f5a58f1d9dce8e0b587c83b3e2fd4d0ea93f1be7d9d690677ff58440"
+    },
+    {
+      "path": "site/index.html",
+      "bytes": 4191,
+      "sha256": "789ff44d4d23c97d42f5d51811c6c386c80bf84e0ee339577fb8251c60719389"
+    },
+    {
+      "path": "site/model.mjs",
+      "bytes": 4965,
+      "sha256": "a1c33031e9fd32fb8988ec726a493a5e170e80c6c203274b868679642784e469"
+    },
+    {
+      "path": "site/records/content.html",
+      "bytes": 1673,
+      "sha256": "b4408ac75692ec32340a23eebc616f43fd752f73428de4a05f815668f9459f34"
+    },
+    {
+      "path": "site/styles.css",
+      "bytes": 4153,
+      "sha256": "c3d9e8e391d0ae7893b95742eee0b1e257dfe61706d5ce0c2c019cebac650b73"
+    },
+    {
+      "path": "tests/domain.test.mjs",
+      "bytes": 1428,
+      "sha256": "26cb98d3b270cb94a27b2ef2aec2e41b9e31866db63fab5255fe54541669a4be"
+    },
+    {
+      "path": "tests/model.test.mjs",
+      "bytes": 2862,
+      "sha256": "2ff344da147f1a0e514bef3e46bfb780e8568e10791b804a4c680b7ceef73269"
+    },
+    {
+      "path": "tests/persistence.test.mjs",
+      "bytes": 2048,
+      "sha256": "fd30a671c08a82667587047046840ce2276fa1ec96318031c4c07a752afab61f"
+    }
+  ]
+}
