@@ -1,0 +1,17 @@
+{
+  "name": "Field Notes",
+  "shortName": "Field Notes",
+  "description": "A sample journal of useful observations, small discoveries and work in progress.",
+  "url": "https://kayak-draw-9549.onpagelove.com/onboarding/after/demos/design-refresh-20261106/blog/",
+  "lang": "en",
+  "locale": "en_US",
+  "icon": {
+    "background": "#303e52",
+    "foreground": "#ffffff"
+  },
+  "social": {
+    "title": "Something worth noticing.",
+    "label": "Observations and ideas"
+  },
+  "pages": []
+}

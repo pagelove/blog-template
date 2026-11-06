@@ -1,0 +1,17 @@
+{
+  "design": "editorial",
+  "mode": "dark",
+  "titleLines": [
+    "Notice more.",
+    "Write it down."
+  ],
+  "titleSize": 84,
+  "descriptionLines": [
+    "Small observations about design, making and everyday life."
+  ],
+  "fonts": [
+    "Source Serif 4",
+    "Inter"
+  ],
+  "safeInset": 64
+}

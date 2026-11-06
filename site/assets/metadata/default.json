@@ -1,0 +1,21 @@
+{
+  "title": "Field Notes — Notice more. Write it down.",
+  "description": "Small observations about design, making and everyday life.",
+  "siteName": "Field Notes",
+  "locale": "en_US",
+  "url": "https://kayak-draw-9549.onpagelove.com/onboarding/after/demos/design-refresh-20261106/blog/",
+  "themeColor": "#303e52",
+  "image": {
+    "url": "https://kayak-draw-9549.onpagelove.com/onboarding/after/demos/design-refresh-20261106/blog/assets/social/default.png",
+    "width": 1200,
+    "height": 630,
+    "type": "image/png",
+    "alt": "Field Notes — Notice more. Write it down."
+  },
+  "icons": {
+    "svg": "https://kayak-draw-9549.onpagelove.com/onboarding/after/demos/design-refresh-20261106/blog/assets/identity/favicon.svg",
+    "ico": "https://kayak-draw-9549.onpagelove.com/onboarding/after/demos/design-refresh-20261106/blog/assets/identity/favicon.ico",
+    "apple": "https://kayak-draw-9549.onpagelove.com/onboarding/after/demos/design-refresh-20261106/blog/assets/identity/apple-touch-icon.png"
+  },
+  "manifest": "https://kayak-draw-9549.onpagelove.com/onboarding/after/demos/design-refresh-20261106/blog/assets/identity/site.webmanifest"
+}
