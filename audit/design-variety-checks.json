@@ -1,0 +1,56 @@
+{
+  "utc": "2026-11-06T00:27:44.866Z",
+  "app": "blog",
+  "design": "editorial",
+  "mode": "light",
+  "desktop": {
+    "app": "blog",
+    "background": "rgb(250, 247, 241)",
+    "bodyFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Arial, sans-serif",
+    "bodyFontReady": true,
+    "cardRadius": "0px",
+    "design": "editorial",
+    "headingFamily": "\"Source Serif 4\", Georgia, serif",
+    "headingFontReady": true,
+    "mode": "light",
+    "overflow": false
+  },
+  "mobile": {
+    "app": "blog",
+    "headerActionHeight": 46,
+    "overflow": false,
+    "width": 320
+  },
+  "tasks": {
+    "app": "blog",
+    "empty": "0 posts",
+    "dialogFocus": true,
+    "escapeCloses": true
+  },
+  "checks": [
+    {
+      "args": [
+        "scripts/check.mjs"
+      ],
+      "status": 0
+    },
+    {
+      "args": [
+        "--test",
+        "tests/model.test.mjs",
+        "tests/domain.test.mjs",
+        "tests/persistence.test.mjs",
+        "tests/deployment.test.mjs"
+      ],
+      "status": 0
+    },
+    {
+      "args": [
+        "scripts/deploy.mjs",
+        "--prepare"
+      ],
+      "status": 0
+    }
+  ],
+  "limits": "Browser local fixture; OS motion emulation/physical device/screen reader and new production permissions not tested."
+}
